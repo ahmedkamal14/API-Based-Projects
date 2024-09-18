@@ -31,7 +31,7 @@ A project that simulates the functionality of ChatGPT using OpenAI's API. This a
 ### [Weather App](https://github.com/ahmedkamal14/WeatherApp) 🌦️
 A weather application that fetches and displays real-time weather data from a public API. Features include current weather conditions, forecasts, and location-based updates. Please note that this project is not fully responsive.
 
-- **[Live Preview](https://ahmedkamal14.github.io/WeatherApp)**
+- **[Live Preview](https://weather-app-seven-omega-95.vercel.app/)**
 - **[Repository](https://github.com/ahmedkamal14/WeatherApp)**
 
 ![Weather App](Weather.png)
